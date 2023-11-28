@@ -1,4 +1,4 @@
-# Hitbox NoCH
+# Minecraft Hitbox NoCH 1.16.5
 
 ## Описание
 Модификация, позволяющая регулировать хитбоксы игроков в Minecraft.
