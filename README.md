@@ -17,6 +17,9 @@
     
 - betterfpsdist
   - "Forge 1.16.5"
+ 
+- ShulkerTooltip
+  - "Forge 1.16.5"
 
 
 ## Инструкции по использованию
